@@ -14,6 +14,7 @@
 		04C3E2E722135E180027DF84 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04C3E2E522135E180027DF84 /* LaunchScreen.storyboard */; };
 		04C3E2F222135E180027DF84 /* multiple_windowsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C3E2F122135E180027DF84 /* multiple_windowsTests.swift */; };
 		04C3E2FD22135E180027DF84 /* multiple_windowsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C3E2FC22135E180027DF84 /* multiple_windowsUITests.swift */; };
+		04C3E30B221364510027DF84 /* PhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C3E30A221364510027DF84 /* PhotoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		04C3E2F822135E180027DF84 /* multiple_windowsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = multiple_windowsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04C3E2FC22135E180027DF84 /* multiple_windowsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = multiple_windowsUITests.swift; sourceTree = "<group>"; };
 		04C3E2FE22135E180027DF84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04C3E30A221364510027DF84 /* PhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				04C3E2DC22135E160027DF84 /* AppDelegate.swift */,
 				04C3E2DE22135E160027DF84 /* ViewController.swift */,
+				04C3E30A221364510027DF84 /* PhotoViewController.swift */,
 				04C3E2E022135E160027DF84 /* Main.storyboard */,
 				04C3E2E322135E180027DF84 /* Assets.xcassets */,
 				04C3E2E522135E180027DF84 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				04C3E2DF22135E160027DF84 /* ViewController.swift in Sources */,
 				04C3E2DD22135E160027DF84 /* AppDelegate.swift in Sources */,
+				04C3E30B221364510027DF84 /* PhotoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

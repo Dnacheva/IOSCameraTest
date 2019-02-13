@@ -82,7 +82,6 @@
 				04C3E2DB22135E160027DF84 /* multiple_windows */,
 				04C3E2F022135E180027DF84 /* multiple_windowsTests */,
 				04C3E2FB22135E180027DF84 /* multiple_windowsUITests */,
-				04C3E2DA22135E160027DF84 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
@@ -94,6 +93,7 @@
 				04C3E2F822135E180027DF84 /* multiple_windowsUITests.xctest */,
 			);
 			name = Products;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		04C3E2DB22135E160027DF84 /* multiple_windows */ = {
@@ -106,6 +106,7 @@
 				04C3E2E322135E180027DF84 /* Assets.xcassets */,
 				04C3E2E522135E180027DF84 /* LaunchScreen.storyboard */,
 				04C3E2E822135E180027DF84 /* Info.plist */,
+				04C3E2DA22135E160027DF84 /* Products */,
 			);
 			path = multiple_windows;
 			sourceTree = "<group>";
